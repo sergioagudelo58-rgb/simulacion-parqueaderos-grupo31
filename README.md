@@ -23,7 +23,7 @@ Gilliam Argel Monterroza, Leydi Correa Herrera, Sergio Andrés Agudelo Marulanda
 ## Instalación y ejecución
 
 ```bash
-git clone https://github.com/sergioagudelo58-rgb/<nombre-del-repositorio>.git
+git clone https://github.com/sergioagudelo58-rgb/simulacion-parqueaderos-grupo31.git
 cd <nombre-del-repositorio>
 pip install -r requirements.txt
 python src/experimentos.py
