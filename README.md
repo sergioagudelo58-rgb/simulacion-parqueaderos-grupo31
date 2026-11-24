@@ -24,7 +24,7 @@ Gilliam Argel Monterroza, Leydi Correa Herrera, Sergio Andrés Agudelo Marulanda
 
 ```bash
 git clone https://github.com/sergioagudelo58-rgb/simulacion-parqueaderos-grupo31.git
-cd <nombre-del-repositorio>
+cd simulacion-parqueaderos-grupo31
 pip install -r requirements.txt
 python src/experimentos.py
 ```
