@@ -87,3 +87,7 @@ Todos los tiempos son exponenciales. Cada réplica simula 1000 minutos.
 
 Con las mismas semillas, ejecutar el script varias veces produce resultados idénticos.
 Entorno probado: Python 3.13, numpy 2.5, pandas 3.0, scipy 1.18, matplotlib 3.11, openpyxl 3.1.
+
+### Evidencia de ejecución
+
+![Ejecución del experimento](resultados/ejecucion.png)
